@@ -1,5 +1,32 @@
 # 💫 About Me:
-# Hi there! 👋 I'm Kavin Prabakaran<br><br>**Java Full Stack Developer | Spring Boot | React.js | Machine Learning Enthusiast**<br><br>Passionate about building robust, scalable applications with clean code and intelligent systems.<br><br>## 🔧 Technologies & Skills<br>- **Languages**: Java, Python, JavaScript<br>- **Frontend**: React.js, HTML5, CSS3, Bootstrap<br>- **Backend**: Spring Boot, REST APIs, MySQL, Oracle<br>- **Tools**: Git, VS Code, Eclipse, Postman, Jupyter Notebook<br>- **Concepts**: DSA, OOP, Functional Programming Basics<br><br>## 🚀 Featured Projects<br>1. [Personal Finance Tracker](https://github.com/you/finance-tracker) - Spring Boot + React expense management app<br>2. [Job Application Tracker](https://github.com/you/job-tracker) - Full-stack job hunt organizer<br>3. [Predictive Analytics with Digital Twin](https://github.com/you/digital-twin) - Federated learning for maintenance prediction<br><br>## 📚 Currently Learning<br>- Advanced Spring Boot Microservices<br>- Cloud Technologies (AWS/GCP)<br>- Machine Learning with PyTorch<br><br>## 📫 Let's Connect<br>- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)<br>- Email: kavinprabakaran64@gmail.com<br>- Portfolio: [Your Portfolio Link](#) (optional)<br><br>## ⚡ Fun Fact<br>I once built a game server that hit 50K+ users during lockdown!<br><br>![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=OrchidKat.OrchidKat)
+# Hi there! 👋 I'm Kavin Prabakaran
+
+**Java Full Stack Developer | Spring Boot | React.js | Machine Learning Enthusiast**
+
+Passionate about building robust, scalable applications with clean code and intelligent systems.
+
+## 🔧 Technologies & Skills
+- **Languages**: Java, Python, JavaScript
+- **Frontend**: React.js, HTML5, CSS3, Bootstrap
+- **Backend**: Spring Boot, REST APIs, MySQL, Oracle
+- **Tools**: Git, VS Code, Eclipse, Postman, Jupyter Notebook
+- **Concepts**: DSA, OOP, Functional Programming Basics
+
+## � Featured Projects
+1. [Personal Finance Tracker](https://github.com/you/finance-tracker) - Spring Boot + React expense management app
+2. [Job Application Tracker](https://github.com/you/job-tracker) - Full-stack job hunt organizer
+3. [Predictive Analytics with Digital Twin](https://github.com/you/digital-twin) - Federated learning for maintenance prediction
+
+## 📚 Currently Learning
+- Advanced Spring Boot Microservices
+- Cloud Technologies (AWS/GCP)
+- Machine Learning with PyTorch
+
+## 📫 How to reach me
+📧 kavinprabakaran64@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+
+⚡ Fun fact: I once built a game server that hit 50K+ users during lockdown!
 
 
 ## 🌐 Socials:
