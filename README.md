@@ -1,5 +1,5 @@
 # 💫 About Me:
-# <br> Hi there! 👋 I'm Kavin Prabakaran<br><br>**Java Full Stack Developer <br><br>  📚 Currently Learning<br>- Advanced Spring Boot Microservices<br>- Cloud Technologies (AWS/GCP)<br>- Machine Learning with PyTorch<br><br> 📫 How to reach me:<br>📧 kavinprabakaran64@gmail.com  <br>
+# <br> Hi there! 👋 I'm Kavin Prabakaran<br><br>Java Full Stack Developer <br><br>  📚 Currently Learning<br>- Advanced Spring Boot Microservices<br>- Cloud Technologies (AWS/GCP)<br>- Machine Learning with PyTorch<br><br> 📫 How to reach me:<br>📧 kavinprabakaran64@gmail.com  <br>
 
 
 # 🌐 Socials:
