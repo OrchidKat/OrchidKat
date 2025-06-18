@@ -24,7 +24,7 @@ Passionate about building robust, scalable applications with clean code and inte
 
 ## 📫 How to reach me
 📧 kavinprabakaran64@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+
 
 ⚡ Fun fact: I once built a game server that hit 50K+ users during lockdown!
 
